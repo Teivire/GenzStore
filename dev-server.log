@@ -1,0 +1,28 @@
+
+> store-genz-pos@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:52285
+  - Environments: .env.local
+  - Experiments (use with caution):
+    · typedRoutes
+
+ ✓ Starting...
+ ✓ Ready in 1517ms
+ ✓ Compiled /api/products in 261ms (58 modules)
+ GET /api/products 200 in 908ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1512ms (542 modules)
+ GET / 200 in 2084ms
+ GET / 200 in 85ms
+ GET / 200 in 47ms
+ GET /api/products 200 in 38ms
+ ○ Compiling /api/sales ...
+ ✓ Compiled /api/sales in 576ms (287 modules)
+ GET /api/products 200 in 607ms
+ GET /api/sales 200 in 649ms
+ GET /api/sales 200 in 9ms
+ GET / 200 in 88ms
+ GET / 200 in 45ms
+[?25h
